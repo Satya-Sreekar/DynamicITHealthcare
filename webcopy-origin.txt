@@ -1,0 +1,736 @@
+Uri: https://augustushcs.com/
+File Name: C:\Downloaded Web Sites\augustushcs.com\index.htm
+Content Type: text/html
+
+Uri: https://augustushcs.com/Content/css/corporate.css
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\css\corporate.css
+Content Type: text/css
+
+Uri: https://augustushcs.com/Content/css/icon.min.css
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\css\icon.min.css
+Content Type: text/css
+
+Uri: https://augustushcs.com/Content/css/responsive.css
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\css\responsive.css
+Content Type: text/css
+
+Uri: https://augustushcs.com/Content/css/style.css
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\css\style.css
+Content Type: text/css
+
+Uri: https://augustushcs.com/Content/css/vendors.min.css
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\css\vendors.min.css
+Content Type: text/css
+
+Uri: https://augustushcs.com/Content/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\bootstrap-icons.woff2
+Content Type: application/font-woff2
+
+Uri: https://augustushcs.com/Content/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\bootstrap-icons.woff
+Content Type: font/x-woff
+
+Uri: https://augustushcs.com/Content/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://augustushcs.com/Content/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://augustushcs.com/Content/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://augustushcs.com/Content/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://augustushcs.com/Content/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://augustushcs.com/Content/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://augustushcs.com/Content/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://augustushcs.com/Content/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\fa-v4compatibility.woff2
+Content Type: application/font-woff2
+
+Uri: https://augustushcs.com/Content/fonts/feather.eot?t=1525787366991
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\feather.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://augustushcs.com/Content/fonts/feather.ttf?t=1525787366991
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\feather.ttf
+Content Type: application/octet-stream
+
+Uri: https://augustushcs.com/Content/fonts/feather.woff?t=1525787366991
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\feather.woff
+Content Type: font/x-woff
+
+Uri: https://augustushcs.com/Content/fonts/icomoon.eot?
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://augustushcs.com/Content/fonts/icomoon.eot?-rdmvgc
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://augustushcs.com/Content/fonts/icomoon.ttf?-rdmvgc
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://augustushcs.com/Content/fonts/icomoon.woff?-rdmvgc
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\icomoon.woff
+Content Type: font/x-woff
+
+Uri: https://augustushcs.com/Content/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://augustushcs.com/Content/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://augustushcs.com/Content/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\themify.ttf
+Content Type: application/octet-stream
+
+Uri: https://augustushcs.com/Content/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\fonts\themify.woff
+Content Type: font/x-woff
+
+Uri: https://augustushcs.com/Content/revolution/css/layers.css
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://augustushcs.com/Content/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://augustushcs.com/Content/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\augustushcs.com\Content\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://augustushcs.com/Home
+File Name: C:\Downloaded Web Sites\augustushcs.com\Home.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/Home/Contact
+File Name: C:\Downloaded Web Sites\augustushcs.com\Home\Contact.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/Home/PrivacyPolicy
+File Name: C:\Downloaded Web Sites\augustushcs.com\Home\PrivacyPolicy.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/Home/TermsAndConditions
+File Name: C:\Downloaded Web Sites\augustushcs.com\Home\TermsAndConditions.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/Home/WhyChooseUs
+File Name: C:\Downloaded Web Sites\augustushcs.com\Home\WhyChooseUs.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/Images/20240831134425.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\20240831134425.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/aboutus.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\aboutus.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/certified.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\certified.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/compliance - 21972-312_SOC_NonCPA_Blk.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\compliance - 21972-312_SOC_NonCPA_Blk.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/compliance - ISO 27001 Logo.jfif
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\compliance - ISO 27001 Logo.jfif
+Content Type: image/pjpeg
+
+Uri: https://augustushcs.com/Images/demo-corporate-02.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-02.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-03.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-03.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-05.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-05.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-06.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-06.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-07.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-07.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-08.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-08.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-10.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-10.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-about-01.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-about-01.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-about-icon-01.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-about-icon-01.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/demo-corporate-about-icon-02.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-about-icon-02.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/demo-corporate-about-icon-03.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-about-icon-03.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/demo-corporate-about-icon-04.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-about-icon-04.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/demo-corporate-about-img-01.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-about-img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/demo-corporate-bg-01.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-bg-01.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-corporate-contact-bg-01.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-corporate-contact-bg-01.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-testimonials-01.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-testimonials-01.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-testimonials-02.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-testimonials-02.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/demo-testimonials-03.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\demo-testimonials-03.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/focusoncare.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\focusoncare.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/Icon.ico
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\Icon.ico
+Content Type: image/x-icon
+
+Uri: https://augustushcs.com/Images/logo.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/partners-01.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\partners-01.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/partners-02.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\partners-02.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/partners-03.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\partners-03.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/partners-04.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\partners-04.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/partners-05.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\partners-05.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/pexels-artempodrez-5716035.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-artempodrez-5716035.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-brandaohh-3959482.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-brandaohh-3959482.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-canvy-mockups-56805-205316.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-canvy-mockups-56805-205316.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-chokniti-khongchum-1197604-2280547.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-chokniti-khongchum-1197604-2280547.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-cottonbro-5722164.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-cottonbro-5722164.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-cottonbro-6803551.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-cottonbro-6803551.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-cytonn-955389.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-cytonn-955389.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-fauxels-3183131.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-fauxels-3183131.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-fauxels-3183171.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-fauxels-3183171.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-fauxels-3184292.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-fauxels-3184292.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-fauxels-3184306.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-fauxels-3184306.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-goumbik-1419922.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-goumbik-1419922.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-janson-a-207878-753695.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-janson-a-207878-753695.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-jeshoots-com-147458-834892.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-jeshoots-com-147458-834892.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-kampus-8190804.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-kampus-8190804.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-karolina-grabowska-4021779.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-karolina-grabowska-4021779.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-karolina-grabowska-4386467.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-karolina-grabowska-4386467.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-karolina-grabowska-4467735.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-karolina-grabowska-4467735.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-mikhail-nilov-8297478.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-mikhail-nilov-8297478.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-olly-3756681.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-olly-3756681.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-pavel-danilyuk-8442033.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-pavel-danilyuk-8442033.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-pixabay-159304.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-pixabay-159304.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-pixabay-209224.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-pixabay-209224.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-rdne-6129574.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-rdne-6129574.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-rdne-6129901.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-rdne-6129901.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-rdne-7947999.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-rdne-7947999.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-rethaferguson-3825586.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-rethaferguson-3825586.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-shkrabaanthony-5215024.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-shkrabaanthony-5215024.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-shvets-production-7176317.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-shvets-production-7176317.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-shvetsa-4226216.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-shvetsa-4226216.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-sora-shimazaki-5673488.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-sora-shimazaki-5673488.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-sora-shimazaki-5673502.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-sora-shimazaki-5673502.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-thirdman-5583255.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-thirdman-5583255.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-thirdman-8940469.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-thirdman-8940469.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-tima-miroshnichenko-5407220.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-tima-miroshnichenko-5407220.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-tima-miroshnichenko-9574328.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-tima-miroshnichenko-9574328.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-victor-silas-3670710-5496196.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-victor-silas-3670710-5496196.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/pexels-yankrukov-7691730.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\pexels-yankrukov-7691730.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/qrcode_augustushcs.com.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\qrcode_augustushcs.com.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_01.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_01.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_02.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_02.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_03.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_03.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_04.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_04.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_05.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_05.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_06.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_06.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_07.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_07.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_08.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_08.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_09.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_09.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_10.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_10.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_11.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_11.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_12.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_12.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_13.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_13.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/software_14.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_14.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_15.jpeg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_15.jpeg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/software_16.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_16.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_17.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_17.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_18.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_18.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/software_19.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_19.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_20.jpeg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_20.jpeg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/software_21.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_21.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_22.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_22.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_23.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_23.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_24.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_24.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_25.svg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_25.svg
+Content Type: image/svg+xml
+
+Uri: https://augustushcs.com/Images/software_26.jpg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_26.jpg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/software_27.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_27.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_28.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_28.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_29.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_29.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_30.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_30.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/Images/software_31.jpeg
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\software_31.jpeg
+Content Type: image/jpeg
+
+Uri: https://augustushcs.com/Images/world-map-png-35420.png
+File Name: C:\Downloaded Web Sites\augustushcs.com\Images\world-map-png-35420.png
+Content Type: image/png
+
+Uri: https://augustushcs.com/LaboratoryServices/InstrumentServicesSupplies
+File Name: C:\Downloaded Web Sites\augustushcs.com\LaboratoryServices\InstrumentServicesSupplies.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/LaboratoryServices/LabConsulting
+File Name: C:\Downloaded Web Sites\augustushcs.com\LaboratoryServices\LabConsulting.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/LaboratoryServices/LabManagement
+File Name: C:\Downloaded Web Sites\augustushcs.com\LaboratoryServices\LabManagement.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/LaboratoryServices/LabStartupServices
+File Name: C:\Downloaded Web Sites\augustushcs.com\LaboratoryServices\LabStartupServices.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/LaboratoryServices/QualityRegulatoryComplianceAuditing
+File Name: C:\Downloaded Web Sites\augustushcs.com\LaboratoryServices\QualityRegulatoryComplianceAuditing.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/LaboratoryServices/RCMAuditingConsulting
+File Name: C:\Downloaded Web Sites\augustushcs.com\LaboratoryServices\RCMAuditingConsulting.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/LaboratoryServices/SoftwareSolutions
+File Name: C:\Downloaded Web Sites\augustushcs.com\LaboratoryServices\SoftwareSolutions.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/PayerSolutions
+File Name: C:\Downloaded Web Sites\augustushcs.com\PayerSolutions.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/PayerSolutions/ClaimsManagement
+File Name: C:\Downloaded Web Sites\augustushcs.com\PayerSolutions\ClaimsManagement.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/PayerSolutions/FormConversion
+File Name: C:\Downloaded Web Sites\augustushcs.com\PayerSolutions\FormConversion.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/PayerSolutions/MAO
+File Name: C:\Downloaded Web Sites\augustushcs.com\PayerSolutions\MAO.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/PayerSolutions/MedicalReview
+File Name: C:\Downloaded Web Sites\augustushcs.com\PayerSolutions\MedicalReview.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/PayerSolutions/WorkmenCompensation
+File Name: C:\Downloaded Web Sites\augustushcs.com\PayerSolutions\WorkmenCompensation.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices/BehavioralHealthBilling
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices\BehavioralHealthBilling.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices/ClinicalDocumentation
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices\ClinicalDocumentation.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices/FQHCBilling
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices\FQHCBilling.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices/HospitalBilling
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices\HospitalBilling.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices/LaboratoryServices
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices\LaboratoryServices.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices/MedicalBilling
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices\MedicalBilling.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices/MedicalRCMSolutions
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices\MedicalRCMSolutions.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/ProviderServices/SpecialtyMedicalCoding
+File Name: C:\Downloaded Web Sites\augustushcs.com\ProviderServices\SpecialtyMedicalCoding.html
+Content Type: text/html
+
+Uri: https://augustushcs.com/Scripts/js/jquery.js
+File Name: C:\Downloaded Web Sites\augustushcs.com\Scripts\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://augustushcs.com/Scripts/js/main.js
+File Name: C:\Downloaded Web Sites\augustushcs.com\Scripts\js\main.js
+Content Type: application/javascript
+
+Uri: https://augustushcs.com/Scripts/js/vendors.min.js
+File Name: C:\Downloaded Web Sites\augustushcs.com\Scripts\js\vendors.min.js
+Content Type: application/javascript
+
+Uri: https://augustushcs.com/Scripts/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\augustushcs.com\Scripts\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://augustushcs.com/Scripts/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\augustushcs.com\Scripts\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\augustushcs.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\augustushcs.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\augustushcs.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU7NSg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+File Name: C:\Downloaded Web Sites\augustushcs.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+Content Type: font/ttf
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\augustushcs.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-WVERS5XPZW
+File Name: C:\Downloaded Web Sites\augustushcs.com\gtag\js
+Content Type: application/javascript
+

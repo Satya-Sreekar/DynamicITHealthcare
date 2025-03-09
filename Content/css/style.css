@@ -132,6 +132,12 @@ img {
   max-width: 100%;
   height: auto;
 }
+.aboutusimg {
+  width: 63.6%;
+  height: 60.2%;
+  border-radius: 25px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
 ul li {
   list-style: none;
 }
